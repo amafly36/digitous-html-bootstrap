@@ -1,0 +1,20 @@
+.yellow{
+    background-color: yellow;
+}
+.bleu{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+
+.vert{
+    background-color: rgb(60, 179, 113);
+}
+.gris{
+    background-color: rgb(180, 180, 180);
+}
+
+.row{
+    margin: 20px;
+}
